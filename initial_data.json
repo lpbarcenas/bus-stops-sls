@@ -1,0 +1,31 @@
+{
+
+    "bus": [
+        {
+            "bus_id": "Bus1",
+            "bus_stop_id": "carmen"
+        },
+        {
+            "bus_id": "Bus2",
+            "bus_stop_id": "cogon"
+        }
+    ],
+
+    "bus_stop": [
+        {
+            "bus_stop_id": "carmen",
+            "lat": 8.4788613,
+            "lng": 124.6511353,
+            "name": "Carmen Bus Stop",
+            "next_arrival": 25200
+        },
+        {
+            "bus_stop_id": "cogon",
+            "lat": 8.478861,
+            "lng": 124.6511358,
+            "name": "Cogon Bus Stop",
+            "next_arrival": 46800
+        }
+    ]
+
+}
