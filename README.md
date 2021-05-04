@@ -26,4 +26,5 @@ Please note that:
     lat: 8.4788611,
     lng: 124.6511352
   } (consult db/busstop.js)
+ - Bus stops pre defined next arrival schedules: 1PM (Cogon) and 7AM (Carmen)
 
